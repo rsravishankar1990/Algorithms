@@ -3,7 +3,7 @@ Design and Analysis of Algorithms
 
 # Merge Sort
 This folder contains the analysis and comparison of the merge sort with 
-Naive sorting techniques which are in O(n<sup>2</sup>)
+Naive sorting techniques which are in **O(n<sup>2</sup>)**
 Comparison of the two techniques:
 ![Comparison of Merge sort with Naive method](/Merge Sort/Merge vs Naive - Numbers.png)
 <p>The time specified in this table is in seconds. Was calculated using the **timeit** module of python
