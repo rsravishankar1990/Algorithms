@@ -3,7 +3,9 @@ Design and Analysis of Algorithms
 
 # Merge Sort
 This folder contains the analysis and comparison of the merge sort with 
-Naive sorting techniques which are in O(n^2)
+Naive sorting techniques which are in O(n<sup>2</sup>)
+Comparison of the two techniques:
+![Comparison of Merge sort with Naive method](/Merge Sort/Merge vs Naive - Numbers.png)
 
 # Closest Pair Problem
 Comparison of the Divide and Conquer methodology for finding closest pair of points
